@@ -13,4 +13,8 @@ when it comes to data loading, the [SvelteKit documentation](https://svelte.dev/
 2. Run `npm run dev` in another terminal.
 3. Open the application in browser, watch the log-server terminal and explore the source.
 
+Here is the preview of the application.
+
+![image SvelteKit Data Loading in Action](docs/sveltekit-data-loading-in-action.png)
+
 :metal: Happy coding :metal:
